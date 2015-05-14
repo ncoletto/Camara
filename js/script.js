@@ -5,8 +5,6 @@
    		document.addEventListener("deviceready", arrancar, false);
     }, false);
     
-    // The watch id references the current `watchHeading`
-    var watchID = null;
 
     // PhoneGap is ready
     function arrancar() {
