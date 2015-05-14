@@ -24,7 +24,7 @@
     <preference name="android-minSdkVersion" value="7" />
     <preference name="android-installLocation" value="auto" />
     
-<gap:plugin name="com.logilite.vision.camera" version="0.2.11" />
+<gap:plugin name="org.apache.cordova.camera" version="0.3.2" />
     
     <icon src="icon.png" />
 
